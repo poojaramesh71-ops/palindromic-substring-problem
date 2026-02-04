@@ -33,4 +33,5 @@ def longestPalindrome(s):
 # -------- Main Program --------
 s = input("Enter a string: ")
 result = longestPalindrome(s)
+
 print("Longest Palindromic Substring:", result)
